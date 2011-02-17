@@ -1,0 +1,9 @@
+Random hacks
+
+html2txt.sed  - HTML to plain text filter in sed
+
+make-toposort.py - Perform topological sorting of dependencies in python
+                   using 'make' tool
+
+parallel-map.py - A parallel map() in python using os.fork()
+
